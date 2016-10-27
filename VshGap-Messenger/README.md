@@ -1,4 +1,7 @@
 ### VshGap Messenger for Android
+This Project Created for Peoples' Friendship University of Russia.
+Students: Jan Chiragh and Roy Deep
+Group: NI-602
 
 This is an UNOFFICIAL app that uses [Telegram's API](https://core.telegram.org/api)
 
@@ -15,7 +18,7 @@ Apply themes shared by other users.
 
 **SOCIAL:** Get in touch with other VshGap Messenger users through [our Facebook Page](https://facebook.com/vshgap)
 
-This repo contains the source code for [VshGap Messenger App for Android](https://play.google.com/store/apps/details?id=com.vshgap.messenger).
+This repo contains the source code for [VshGap Messenger App for Android](https://play.google.com/store/apps/details?id=org.vshgap.messenger).
 
 First of all, take a look at **src/main/java/org/vshgap/messenger/BuildVars.java** and fill it with correct values.
 Import the root folder into your IDE (tested on Android Studio), then run project.
